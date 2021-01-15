@@ -18,7 +18,7 @@
 ・質問に対する回答一覧、回答の投稿及び回答数の表示  
 ・ベストアンサーを選ぶことができる  
 ・ユーザーのアイコンを設定できる  
-　未設定時のアイコン：  
+　未設定時のアイコン：  ![default_icon](https://user-images.githubusercontent.com/36429862/104673828-d8583d00-5725-11eb-9273-bb51a5a4ac16.png)
  
 ## Requirement
 
