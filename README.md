@@ -10,6 +10,8 @@
 
 ![スクリーンショット 2021-01-14 17 35 01](https://user-images.githubusercontent.com/36429862/104673553-4fd99c80-5725-11eb-99f2-5a295e42b635.png)
 
+![スクリーンショット 2021-01-14 17 33 37](https://user-images.githubusercontent.com/36429862/104673708-a7780800-5725-11eb-9582-8fadebf8f07c.png)
+
 ## Features
 
 ・質問一覧及び質問の投稿  
